@@ -10,7 +10,7 @@ namespace CCTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hahaha");
+            Console.WriteLine("hahaha"111);
             Console.ReadKey();
         }
     }
