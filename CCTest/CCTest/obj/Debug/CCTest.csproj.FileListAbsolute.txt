@@ -5,3 +5,10 @@ c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.csprojAssemblyReferen
 c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.csproj.CoreCompileInputs.cache
 c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.exe
 c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.pdb
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\bin\Debug\CCTest.exe.config
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\bin\Debug\CCTest.exe
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\bin\Debug\CCTest.pdb
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\obj\Debug\CCTest.csprojAssemblyReference.cache
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\obj\Debug\CCTest.csproj.CoreCompileInputs.cache
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\obj\Debug\CCTest.exe
+E:\Proj\CCDev\TechLearnning\CCTest\CCTest\obj\Debug\CCTest.pdb
