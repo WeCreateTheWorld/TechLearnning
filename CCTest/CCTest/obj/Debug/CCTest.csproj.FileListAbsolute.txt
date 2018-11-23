@@ -1,0 +1,7 @@
+c:\users\pisen\source\repos\CCTest\CCTest\bin\Debug\CCTest.exe.config
+c:\users\pisen\source\repos\CCTest\CCTest\bin\Debug\CCTest.exe
+c:\users\pisen\source\repos\CCTest\CCTest\bin\Debug\CCTest.pdb
+c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.csprojAssemblyReference.cache
+c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.csproj.CoreCompileInputs.cache
+c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.exe
+c:\users\pisen\source\repos\CCTest\CCTest\obj\Debug\CCTest.pdb
