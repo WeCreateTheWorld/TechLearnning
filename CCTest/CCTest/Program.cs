@@ -10,7 +10,7 @@ namespace CCTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(水电费水电费是的);
+            Console.WriteLine("sdfsdfsd");
             Console.ReadKey();
         }
     }
