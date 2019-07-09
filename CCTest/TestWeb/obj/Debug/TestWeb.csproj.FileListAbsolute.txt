@@ -76,7 +76,6 @@ E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.Razor.resources.d
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.csprojAssemblyReference.cache
 E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.csproj.CoreCompileInputs.cache
 E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.csproj.CopyComplete
 E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.dll
