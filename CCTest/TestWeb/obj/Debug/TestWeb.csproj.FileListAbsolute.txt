@@ -48,6 +48,7 @@ E:\DevProj\TechLearnning\CCTest\TestWeb\bin\roslyn\vbc.rsp
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\roslyn\VBCSCompiler.exe
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\roslyn\VBCSCompiler.exe.config
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Antlr3.Runtime.dll
+E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Microsoft.Web.Infrastructure.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Newtonsoft.Json.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\System.Web.Helpers.dll
@@ -67,6 +68,7 @@ E:\DevProj\TechLearnning\CCTest\TestWeb\bin\System.Web.WebPages.Deployment.xml
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\System.Web.WebPages.Razor.xml
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Newtonsoft.Json.xml
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Antlr3.Runtime.pdb
+E:\DevProj\TechLearnning\CCTest\TestWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.Helpers.resources.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.Mvc.resources.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.Optimization.resources.dll
@@ -74,6 +76,7 @@ E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.Razor.resources.d
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.WebPages.resources.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 E:\DevProj\TechLearnning\CCTest\TestWeb\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.csprojAssemblyReference.cache
 E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.csproj.CoreCompileInputs.cache
 E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.csproj.CopyComplete
 E:\DevProj\TechLearnning\CCTest\TestWeb\obj\Debug\TestWeb.dll
